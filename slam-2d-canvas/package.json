@@ -1,0 +1,16 @@
+{
+  "name": "slam-2d-canvas",
+  "version": "1.0.0",
+  "description": "2D slam map decoding and drawing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "2D",
+    "slam",
+    "canvas"
+  ],
+  "author": "Zhongkai Chen",
+  "license": "ISC"
+}

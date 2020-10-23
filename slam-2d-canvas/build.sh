@@ -1,0 +1,1 @@
+emcc decoder.cpp -o decoder.js -O3 -s MODULARIZE=1 --bind
